@@ -2,6 +2,8 @@
 
 # HRnet - Employee Management System
 
+📄 Ce projet est aussi disponible en [français 🇫🇷](./README.fr.md)
+
 <div align="center">
 
 ![HRnet Logo](./src/assets/logo.png)
