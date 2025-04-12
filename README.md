@@ -178,6 +178,7 @@ bash
  ┣ 📜package-lock.json
  ┣ 📜package.json
  ┣ 📜README.md
+ ┣ 📜README.fr.md
  ┗ 📜vite.config.js
 ```
 
