@@ -1,5 +1,7 @@
-# HRnet - Employee Management System
 <a name="readme-top"></a>
+
+# HRnet - Employee Management System
+
 <div align="center">
 
 ![HRnet Logo](./src/assets/logo.png)
@@ -18,6 +20,7 @@ HRnet is a modern React-based web application designed to manage employee record
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -191,11 +194,11 @@ Please ensure your code follows the existing style and includes tests if applica
 ## License
 
 This project is licensed under the MIT License. See the  file for details.
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Contact
 
 Grégory Véricel - [LinkedIn](https://www.linkedin.com/in/gregory-vericel/) - gregoryvericel6@gmail.com
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
