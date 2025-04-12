@@ -1,6 +1,9 @@
 # HRnet - Employee Management System
+<a name="readme-top"></a>
+<div align="center">
 
 ![HRnet Logo](./src/assets/logo.png)
+</div>
 
 HRnet is a modern React-based web application designed to manage employee records efficiently. It allows users to create new employee profiles, view a paginated list of employees, and search through them, with data persistence and a user-friendly interface.
 
@@ -188,3 +191,11 @@ Please ensure your code follows the existing style and includes tests if applica
 ## License
 
 This project is licensed under the MIT License. See the  file for details.
+<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+
+
+## Contact
+
+Grégory Véricel - [LinkedIn](https://www.linkedin.com/in/gregory-vericel/) - gregoryvericel6@gmail.com
+
+<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
