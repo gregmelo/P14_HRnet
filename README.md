@@ -118,7 +118,7 @@ bash
 
 ## Project Structure
 
-plaintext
+```plaintext
 📦HRnet
  ┣ 📂src
  ┃ ┣ 📂assets
@@ -171,6 +171,7 @@ plaintext
  ┣ 📜package.json
  ┣ 📜README.md
  ┗ 📜vite.config.js
+```
 
 ## Contributing
 
