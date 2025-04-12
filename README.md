@@ -1,6 +1,6 @@
 # HRnet - Employee Management System
 
-![HRnet Logo](./src/asset/logo.png)
+![HRnet Logo](./src/assets/logo.png)
 
 HRnet is a modern React-based web application designed to manage employee records efficiently. It allows users to create new employee profiles, view a paginated list of employees, and search through them, with data persistence and a user-friendly interface.
 
