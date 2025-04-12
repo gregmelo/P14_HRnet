@@ -1,0 +1,43 @@
+// src/components/Modal.scss
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .modal-content {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+    border: 1px solid #a1a88c;
+  
+    .modal-message {
+      font-size: 1.2rem;
+      margin-bottom: 1.5rem;
+  
+      &.success {
+        color: #3e4720; // Vert foncé pour succès
+      }
+  
+      &.error {
+        color: #a83232; // Rouge pour erreurs
+        font-weight: 500;
+      }
+    }
+  
+    .button {
+      padding: 0.5rem 1.5rem;
+      font-size: 1.2rem;
+    }
+  }
