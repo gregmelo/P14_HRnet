@@ -1,16 +1,13 @@
 // src/components/EmployeeForm.js
 import { useState } from 'react';
 import Button from '../button/Button';
-// import DatePicker from '../customDatePicker/CustomDatePicker';
 import { CustomDatePicker as DatePicker } from '@gregmelo/custom-datepicker-component';
 import Input from '../input/Input';
 import Select from '../select/Select';
-// import Modal from '../modal/Modal';
 import { Modal } from '@gregmelo/modal-component';
 import { states, departments } from '../../data/optionsSelects';
 import './EmployeeForm.scss';
-// import '@gregmelo/modal-component/dist/style.css';
-// import '../customDatePicker/CustomDatePicker.scss'
+
 
 /**
  * Component to create a new employee

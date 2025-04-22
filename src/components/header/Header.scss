@@ -28,6 +28,10 @@
         margin: 0;
         color: #164434;
     }
+    &__logo{
+        width: 150px;
+        height: 150px;
+    }
 }
 
 
@@ -45,6 +49,10 @@
         }
         &__links {
             gap: 10px;
+        }
+        &__logo{
+            width: 40%;
+            height: 40%;
         }
     }
 }

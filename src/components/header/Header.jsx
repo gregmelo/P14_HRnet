@@ -1,5 +1,5 @@
 import { Link, useNavigate } from 'react-router-dom'; // Importation des outils de navigation depuis React Router
-import logo from '../../assets/logo.png'; // Importation de l'image du logo
+import logo from '../../assets/logo.webp'; // Importation de l'image du logo
 import "./Header.scss"; // Importation des styles SCSS pour le composant Header
 import propTypes from 'prop-types'; // Importation de PropTypes pour la validation des props
 import Button from '../button/Button';
@@ -25,7 +25,7 @@ export default function Header({ showViewEmployeesListButton = true }) {
         {/* Lien cliquable vers la page d'accueil avec logo et titre */}
         <Link className="navBar__links" onClick={() => navigate('/')}>
           {/* Image du logo */}
-          <img src={logo} alt="Logo" className="navBar__logo" />
+          <img src={logo} alt="Logo HRnet" className="navBar__logo" />
           {/* Titre de l'application */}
           <h1 className="navBar__title">HRnet</h1>
         </Link>
